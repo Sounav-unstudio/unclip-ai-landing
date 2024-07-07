@@ -28,7 +28,7 @@ export default function Home() {
         </div>
       </div>
 
-      <Card className="py-4">
+      <Card className="p-3 shadow-lg shadow-slate-600 rounded-xl">
         <CardHeader className="pb-0 pt-2 px-4 flex-col items-start">
           <p className="text-tiny uppercase font-bold">Daily Mix</p>
           <small className="text-default-500">12 Tracks</small>
